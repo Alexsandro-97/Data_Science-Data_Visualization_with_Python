@@ -10,3 +10,6 @@ Instrutor: Diego Mariano, Ph.D. - Cientista de Dados e Doutor em Bioinformática
 * Conhecer a biblioteca MATPLOTLIB PYPLOT;
 * Construir gráficos de linhas, barras, dispersão e boxplot;
 * Manipular dados para construção de gráficos.
+
+#### Link do curso
+[DataScience-w/Python](https://www.udemy.com/course/visualizacao-de-dados-com-python/)
